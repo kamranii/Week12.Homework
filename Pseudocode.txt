@@ -1,0 +1,6 @@
+PseudoCode:
+
+1. Download images and find suitable icons
+2. Include all necessary html tags
+3. Learn responsivity
+4. Style body part
